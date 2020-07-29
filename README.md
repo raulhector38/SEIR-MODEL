@@ -1,4 +1,4 @@
-#SEIR-MODEL
+##SEIR-MODEL
 
 This is a program in which we give a initial conditions to the SEIR-MODEL and it returns a plot in which it shows a simulation.
 Here we are using the Runge-Kutta-Fhelberg method to solve the SEIR diferential equations.
